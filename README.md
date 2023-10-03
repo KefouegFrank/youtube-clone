@@ -1,3 +1,4 @@
+<img src="/images/capture.jpn" alt="final result of cloned site">
 <div style="align-item: left;">
 🚀 **Mastering the Fundamentals of HTML and CSS: A Beginner's Journey**
 
