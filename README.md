@@ -1,4 +1,4 @@
-
+<div style="align-item: left;">
 🚀 **Mastering the Fundamentals of HTML and CSS: A Beginner's Journey**
 
 As a complete beginner, I embarked on a journey to grasp the foundations of web development by diving into HTML and CSS. I stumbled upon an incredibly beginner-friendly video course that turned out to be a game-changer. Here's a brief summary of the key techniques and insights I gained:
@@ -25,4 +25,4 @@ So, to all the beginners out there, don't underestimate the importance of learni
 
 #HTML #CSS #WebDevelopment #BeginnersJourney #Coding #ResponsiveDesign
 
-
+</div>
